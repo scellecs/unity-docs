@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Вступление](README.md)
 
 ## Общие вопросы <a id="common-questions"></a>
 
@@ -12,5 +12,5 @@
 
 ## Подготовка к собеседованию <a id="preparing-for-an-interview"></a>
 
-* [Untitled](preparing-for-an-interview/untitled.md)
+* [Собеседования](preparing-for-an-interview/interview.md)
 
