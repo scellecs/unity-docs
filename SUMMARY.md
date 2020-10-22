@@ -11,6 +11,7 @@
 * [Unity](tips-and-tricks/unity/README.md)
   * [Runtime](tips-and-tricks/unity/runtime/README.md)
     * [Attributes](tips-and-tricks/unity/runtime/attributes/README.md)
+      * [RuntimeInitializeOnLoadMethod](tips-and-tricks/unity/runtime/attributes/runtimeinitializeonloadmethod.md)
       * [DefaultExecutionOrder](tips-and-tricks/unity/runtime/attributes/defaultexecutionorder.md)
   * [Editor](tips-and-tricks/unity/editor/README.md)
     * [Attributes](tips-and-tricks/unity/editor/attributes.md)
