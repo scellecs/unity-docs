@@ -1,3 +1,2 @@
 # Initial page
 
-hello
