@@ -10,3 +10,7 @@
 
 * [Untitled](tips-and-tricks/untitled.md)
 
+## Подготовка к собеседованию <a id="preparing-for-an-interview"></a>
+
+* [Untitled](preparing-for-an-interview/untitled.md)
+
