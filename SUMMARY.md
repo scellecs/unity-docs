@@ -10,3 +10,7 @@
 
 * [Untitled](tips-and-tricks/untitled.md)
 
+## Preparing for an interview
+
+* [Untitled](preparing-for-an-interview/untitled.md)
+
