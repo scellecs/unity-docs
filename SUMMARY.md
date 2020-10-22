@@ -4,7 +4,8 @@
 
 ## Общие вопросы <a id="common-questions"></a>
 
-* [Test](common-questions/test.md)
+* [Просто тест](common-questions/test/README.md)
+  * [Йоу сабгруп](common-questions/test/iou-sabgrup.md)
 
 ## Советы и хитрости <a id="tips-and-tricks"></a>
 
