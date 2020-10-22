@@ -2,11 +2,11 @@
 
 * [Initial page](README.md)
 
-## Common Questions
+## Общие вопросы <a id="common-questions"></a>
 
 * [Test](common-questions/test.md)
 
-## Tips & Tricks
+## Советы и хитрости <a id="tips-and-tricks"></a>
 
 * [Untitled](tips-and-tricks/untitled.md)
 
