@@ -1,9 +1,6 @@
----
-description: >-
-  https://docs.unity3d.com/ScriptReference/RuntimeInitializeOnLoadMethodAttribute.html
----
-
 # RuntimeInitializeOnLoadMethod
+
+[https://docs.unity3d.com/ScriptReference/RuntimeInitializeOnLoadMethodAttribute.html](https://docs.unity3d.com/ScriptReference/RuntimeInitializeOnLoadMethodAttribute.html)
 
 Вызов статического метода на старта приложения.   
 Может быть полезен для создания плагинов или единой точки входа в приложение.
