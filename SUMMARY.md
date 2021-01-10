@@ -4,7 +4,7 @@
 
 ## Общие вопросы <a id="common-questions"></a>
 
-* [Просто тест](common-questions/test.md)
+* [С чего начать освоение Unity и разработку игр?](common-questions/test.md)
 
 ## Советы и хитрости <a id="tips-and-tricks"></a>
 
@@ -15,6 +15,7 @@
       * [RuntimeInitializeOnLoadMethod](tips-and-tricks/unity/runtime/attributes/runtimeinitializeonloadmethod.md)
       * [DefaultExecutionOrder](tips-and-tricks/unity/runtime/attributes/defaultexecutionorder.md)
   * [Editor](tips-and-tricks/unity/editor/README.md)
+    * [ScriptTemplates](tips-and-tricks/unity/editor/scripttemplates.md)
     * [Attributes](tips-and-tricks/unity/editor/attributes.md)
 * [.Net and C\#](tips-and-tricks/dotnet-and-csharp.md)
 
