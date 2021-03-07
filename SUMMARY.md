@@ -18,6 +18,7 @@
     * [ScriptTemplates](tips-and-tricks/unity/editor/scripttemplates.md)
     * [Attributes](tips-and-tricks/unity/editor/attributes.md)
 * [.Net and C\#](tips-and-tricks/dotnet-and-csharp.md)
+* [Полезные инструменты](tips-and-tricks/tools.md)
 
 ## Подготовка к собеседованию <a id="preparing-for-an-interview"></a>
 
